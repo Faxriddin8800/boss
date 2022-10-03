@@ -5,4 +5,5 @@ if(lider == 'Faxriddin' || lider == 'faxriddin' || lider == 'FAXRIDDIN' || lider
     alert('Hello guest')
 }else{
     alert('do not enter');
+    alert('hi guest')
 }
